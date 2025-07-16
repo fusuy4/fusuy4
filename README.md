@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @fusuy4
-- 👀 I’m interested in game development, web design, and more!
+- Interested in game development, web design, and more!
 - 🌱 I’m currently learning C!
 - ⚡ Fun fact: I'm a big fan of LittleBigPlanet!
 
