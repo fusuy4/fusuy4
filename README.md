@@ -1,5 +1,4 @@
-👋 Hi, I’m @fusuy4
-Sic Parvis Magna 
+- 👋 Hi, I’m @fusuy4
 
 <!---
 fusuy4/fusuy4 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
